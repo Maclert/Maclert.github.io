@@ -8,7 +8,6 @@ All of these are Materials which have been approved from different building stan
 
 Are seprated into 3 different type: Thermal, Acoustic and Flame Insulator. 
 
-```markdown
 Syntax highlighted code block
 
 <table 
